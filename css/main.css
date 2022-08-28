@@ -621,7 +621,7 @@ li {
 @media (max-width: 991px) {
   .grip-header .dropdown-toggle::after {
     display: initial !important;
-    content: "\e92e";
+    content: " \00A7";
     font-family: "feathericons";
     border: 0;
     position: absolute;
